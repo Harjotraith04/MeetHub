@@ -1,9 +1,13 @@
 
 ## Getting Started
 Setup for .env.local.example:
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=sk_test_
+
+CLERK_SECRET_KEY=
+
 NEXT_PUBLIC_STREAM_API_KEY=
+
 STREAM_API_SECRET=
 
 
