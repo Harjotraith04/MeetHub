@@ -1,6 +1,13 @@
 # **MeetHub**  
 *Online Meeting platform that enables all the key feactures of Instant meeting, Schedulling amd Recording a meet*
 
+The ScreenShots of MeetHub:
+![Screenshot 2024-11-20 073106](https://github.com/user-attachments/assets/0c9227d9-fdf7-4458-b16e-fde319c66bb8)
+![Screenshot 2024-11-20 072937](https://github.com/user-attachments/assets/e55a0d95-40a6-40da-8c8d-966115657dad)
+![Screenshot 2024-11-20 072957](https://github.com/user-attachments/assets/605ec50b-102d-4054-8f58-cbadfd5e9e1b)
+![Screenshot 2024-11-20 073021](https://github.com/user-attachments/assets/088c5bb6-5dc4-49b1-9353-b0ffcd2bf937)
+![Screenshot 2024-11-20 073045](https://github.com/user-attachments/assets/f836cdab-803d-4048-9f36-1f6f4941fac4)
+
 ## **Getting Started**  
 Follow these steps to set up and run the project locally.  
 
@@ -53,11 +60,4 @@ pnpm dev
 bun dev
 
 Once the server is running, open http://localhost:3000 in your browser to view the application.
-
-The ScreenShots of MeetHub:
-![Screenshot 2024-11-20 073106](https://github.com/user-attachments/assets/0c9227d9-fdf7-4458-b16e-fde319c66bb8)
-![Screenshot 2024-11-20 072937](https://github.com/user-attachments/assets/e55a0d95-40a6-40da-8c8d-966115657dad)
-![Screenshot 2024-11-20 072957](https://github.com/user-attachments/assets/605ec50b-102d-4054-8f58-cbadfd5e9e1b)
-![Screenshot 2024-11-20 073021](https://github.com/user-attachments/assets/088c5bb6-5dc4-49b1-9353-b0ffcd2bf937)
-![Screenshot 2024-11-20 073045](https://github.com/user-attachments/assets/f836cdab-803d-4048-9f36-1f6f4941fac4)
 
