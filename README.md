@@ -34,7 +34,7 @@ Make sure you have the following installed on your system:
 Run the following commands:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Harjotraith04/MeetHub.git
 cd your-repository
 
 Install Dependencies
