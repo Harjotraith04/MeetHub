@@ -13,17 +13,17 @@ CLERK_SECRET_KEY=YOUR_CLERK_SECRET_KEY
 NEXT_PUBLIC_STREAM_API_KEY=YOUR_STREAM_API_KEY
 STREAM_API_SECRET=YOUR_STREAM_API_SECRET
 
-## **Prerequisites**
+# **Prerequisites**
 Make sure you have the following installed on your system:
 
-- **Node.js** (v18+ recommended)
-- **npm**, **yarn**, **pnpm**, or **bun**
+- Node.js (v18+ recommended)
+- npm, yarn, pnpm, or bun
 
 ---
 
-## **Installation**
+# Installation
 
-### **Clone the Repository**
+# Clone the Repository
 Run the following commands:
 
 ```bash
@@ -55,8 +55,9 @@ bun dev
 Once the server is running, open http://localhost:3000 in your browser to view the application.
 
 The ScreenShots of MeetHub:
-![Screenshot 2024-11-20 073106](https://github.com/user-attachments/assets/7ffaa8e7-b194-42f0-920e-836ea096831c)
-![Screenshot 2024-11-20 072937](https://github.com/user-attachments/assets/b5ac3684-a192-48a4-b818-6f1df4b460d0)
-![Screenshot 2024-11-20 072957](https://github.com/user-attachments/assets/cbd4c8e2-a0f7-4d4c-a13f-53c65001226a)
-![Screenshot 2024-11-20 073021](https://github.com/user-attachments/assets/528f606f-4d82-4868-a68f-b16ffa0173e7)
-![Screenshot 2024-11-20 073045](https://github.com/user-attachments/assets/88aee3f0-78bc-4b8e-8614-25758742d6e4)
+![Screenshot 2024-11-20 073106](https://github.com/user-attachments/assets/0c9227d9-fdf7-4458-b16e-fde319c66bb8)
+![Screenshot 2024-11-20 072937](https://github.com/user-attachments/assets/e55a0d95-40a6-40da-8c8d-966115657dad)
+![Screenshot 2024-11-20 072957](https://github.com/user-attachments/assets/605ec50b-102d-4054-8f58-cbadfd5e9e1b)
+![Screenshot 2024-11-20 073021](https://github.com/user-attachments/assets/088c5bb6-5dc4-49b1-9353-b0ffcd2bf937)
+![Screenshot 2024-11-20 073045](https://github.com/user-attachments/assets/f836cdab-803d-4048-9f36-1f6f4941fac4)
+
