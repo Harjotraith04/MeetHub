@@ -15,6 +15,8 @@ Follow these steps to set up and run the project locally.
 Before proceeding, ensure you configure the `.env.local` file correctly. Use the provided template `env.local.example` and populate the necessary values:  
 
 ```plaintext
+.env.local:
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=YOUR_CLERK_PUBLISHABLE_KEY
 CLERK_SECRET_KEY=YOUR_CLERK_SECRET_KEY
 NEXT_PUBLIC_STREAM_API_KEY=YOUR_STREAM_API_KEY
